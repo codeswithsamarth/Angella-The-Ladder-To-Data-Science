@@ -1,0 +1,6 @@
+This is project named cease cipher which is made through two function such as
+encrypt and decrypt it takes message and shift value and convert it into unreadable format
+such that it should be decrypt only if unreadable message and same shift is passed
+
+example message shift value
+decrypt encrypt message and shift
