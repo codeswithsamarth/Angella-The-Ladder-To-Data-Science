@@ -35,7 +35,7 @@ run = 1
 while run!=0:
     for question in questions:
         if score == 30:
-            print("You won This Game Thanks 🎉🎉")
+            print("You won This Game 🎉🎉")
             run = 0
             break
         else:
